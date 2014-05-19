@@ -8,10 +8,10 @@
 	font-family:'bebasneue';
 	text-align:center;
 }
-#headTitle{
+#headTitle {
 	font-size:125px;
 }
-#podcastPromotion{
+#podcastPromotion {
 	font-size:40px;
 }
 #footer {
@@ -24,6 +24,10 @@ html,body {
 	margin: 0;
 	padding: 0;
 	font-size: 75px;
+}
+
+.ig_debug {
+	display: none;
 }
 
 /*Links*/
@@ -39,7 +43,7 @@ a:hover {
 a:visited:hover {
 	color:#f00;
 }
-a:active{
+a:active {
 	color:#f00;
 }
 
